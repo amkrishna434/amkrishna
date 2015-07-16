@@ -16,3 +16,5 @@ krishnarajitha
 
 merge into branch2
 
+merging into branch1
+
