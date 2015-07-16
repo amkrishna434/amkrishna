@@ -1,17 +1,5 @@
-
-1
-2
-3
-4
-5
-
-merge master to branch2
-
-bhagyaraj
-
-priyankakrishna
-
-rajithakrishna
-
-merging into branch1
-
+a 
+b
+c
+d
+e

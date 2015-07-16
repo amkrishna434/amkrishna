@@ -1,20 +1,6 @@
-
-6
-7
-8
-9
-10
-
-
-krishnamurali
-
-rajbhagya
-
-krishnapriyanka
-
-krishnarajitha
-
-merge into branch2
-
-merging into branch1
-
+A
+B
+C
+D
+E
+F
